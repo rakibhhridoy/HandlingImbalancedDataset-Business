@@ -14,7 +14,7 @@
     FN - transactions which are actually fraudulent but the model is predicting them as non fraudulent transactions</p>
 
 <hr>
-<img src="/images/confusion_matrix.PNG" alt="" height="200px" width="400px">
+<img src="/images/confusion_matrix.PNG" alt="" height="300px" width="400px">
 
 
 ```markdown
