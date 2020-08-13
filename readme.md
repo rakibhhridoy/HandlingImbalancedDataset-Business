@@ -62,10 +62,10 @@ weighted avg       0.97      0.83      0.88      1410
 ```
 
 #### Our Target was correctly identified transactions as normal or TPR. After Tuning our TPR/Recall became 1.00.. So our model is now well generalized.
-<hr>
-<hr>
+
 <hr>
 <br>
 <br>
-Connect with me- [Linkedin](https://linkedin.com/in/rakibhhridoy)
+Connect with me- [Linkedin](https://linkedin.com/in/rakibhhridoy) 
+<br>
 Website- [Rakib H. Hridoy](https://rakibhhridoy.github.io) 
