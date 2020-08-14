@@ -9,11 +9,11 @@ components obtained with PCA, the only feature which have not been transformed w
 
 
 ### Handling Overview
-*For this dataset let's consider fraudulent transactions (which are denoted as 1 in the dataset) is positive class and the non fraudulent transactions (which are denoted as 0 in the dataset) is negative class.
-*    ```TP``` - transactions which are actually fraudulent and the model also able correctly identify them as fraudulent transactions
-*    ```FP``` - transactions which are actually non fraudulent transactions but the model is predicting them as fraudulent transactions
-*    ```TN``` - transactions which are actually non fraudulent transactions and model is also predicting them as non fraudulent transactions
-*    ```FN``` - transactions which are actually fraudulent but the model is predicting them as non fraudulent transactions.*
+*For this dataset let's consider fraudulent transactions (which are denoted as 1 in the dataset) is positive class and the non fraudulent transactions (which are denoted as 0 in the dataset) is negative class.*
+*    ```TP```  transactions which are actually fraudulent and the model also able correctly identify them as fraudulent transactions
+*    ```FP```  transactions which are actually non fraudulent transactions but the model is predicting them as fraudulent transactions
+*    ```TN```  transactions which are actually non fraudulent transactions and model is also predicting them as non fraudulent transactions
+*    ```FN```  transactions which are actually fraudulent but the model is predicting them as non fraudulent transactions.*
 
 ![confusionmatrix](images/confusion_matrix.PNG)
 
